@@ -1,0 +1,16 @@
+{
+    "name": "sedatsevgili/iterable-client",
+    "description": "An API client for Iterable",
+    "type": "library",
+    "require": {
+        "php": "7.4",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Sedat Sevgili",
+            "email": "sedatsevgili@gmail.com"
+        }
+    ]
+}
